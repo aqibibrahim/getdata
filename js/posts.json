@@ -1,4 +1,4 @@
-[
+[[
     [
         "ID","USER EMAIL","Nome","Cognome","Cell","Tel","Cod Fiscale","P IVA","istruzioni consegna","Cap Fatt.","Indirizzo Fatt.","Citta Fatt.","complete_billing","Day_Spedizione","Civico","Interno","Nome Via","Citta Cons.","CAP Cons.","Via","complete_shipping","Note","Referral","Amico","Ultima Chiamata","rank","vegan","compleanno","Ultima Consegna","Successivo consegna","Giorni Trascorsi","Num Consegne","Data Registrazione"
         ],
@@ -29,3 +29,4 @@
     
     
    ]
+]
