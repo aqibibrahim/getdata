@@ -9,7 +9,7 @@ function PostsCtrlAjax($scope, $http)
 
 {
 
-$http({method: 'POST', url: 'js/posts.json'}).success(function(data) {
+$http({method: 'POST', ID: 'js/posts.json'}).success(function(data) {
 $scope.posts = data;
 });
 
@@ -35,10 +35,10 @@ body{font-family:arial; font-size:12px}
    
 <div id="ng-app" ng-app ng-controller="PostsCtrlAjax">  
 <div ng-repeat="post in posts" class='postBody'>
-<h2><a href='{{post.url}}'>{{post.title}}</a></h2>
-<div class='time'>{{post.time}} - {{post.author}} </div>
-<p>{{post.description}}</p>
-<img ng-src="{{post.banner}}" style='width:550px'/>
+<h2><a href='{{post.ID}}'>{{post.USER EMAIL}}</a></h2>
+<div class='time'>{{post.Nome}} - {{post.Cognome}} </div>
+<p>{{post.Cell}}</p>
+<img ng-src="{{post.Tell}}" style='width:550px'/>
 </div>
     
 </div>

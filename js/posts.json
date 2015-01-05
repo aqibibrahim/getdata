@@ -1,42 +1,31 @@
- [
-{ 
-"title":"Multiple Ajax Image Upload without Refreshing Page using Jquery.", 
-"url":"http://www.9lessons.info/2013/08/multiple-ajax-image-upload-refreshing.html",
-"banner":"https://lh5.googleusercontent.com/-VWIAbbjR1QM/Uf_v9v9LCbI/AAAAAAAAIAo/4ZhYhP3lcCg/s550/multiple.jpg",
-"description":"Today I am presenting the most important social networking feature called multiple ajax image upload without refreshing the page using jquery and PHP. We just modified few lines of code in jqery.form.js plugin and renamed that to jquery.wallform.js. This feature is one of the key feature in Wall Script sale, big thanks to Arun Sekar for this code trick.",
-"time":"Tuesday, August 6, 2013" ,
-"author":"Srinivas Tamada"
-}, 
-{ 
-"title":"Wall Script 6.0", 
-"url":"http://www.9lessons.info/2013/07/wall-script.html",
-"banner":"https://lh5.googleusercontent.com/-ErPa0tEQgLs/UfZzaQ3NcFI/AAAAAAAAH7o/h_KH8Rf4AXs/s550/WallBanner.jpg",
-"description":"Introducing the brand new Wall Script 6.0 with enrich social network features. Exactly year later I did released Wall Script previous version, it got awesome response and outstanding sale. This script IDEA was came out from my imagination, introducing powerful features like Conversations, OEmebd URL expanding system, Like/Share and Multiple image slider.",
-"time":"MONDAY, JULY 29, 2013" ,
-"author":"Srinivas Tamada"
-}, 
-{ 
-"title":"Simple Drop Down Menu with Jquery and CSS", 
-"url":"http://www.9lessons.info/2012/06/simple-drop-down-menu-with-jquery-and.html",
-"banner":"https://lh5.googleusercontent.com/-rxexmsh4LsU/T-Es523wdqI/AAAAAAAAGGM/cV5nDlcz2wY/s550/dropdown.png",
-"description":"This post is very basic level Jquery and CSS implementation. I want to explain how to design simple drop down menu  with CSS, HTML and Jquery. This system helps you to minimise the menus list. Just take a quick look at this post very few lines of code, use it and enrich your web projects.",
-"time":"WEDNESDAY, JUNE 20, 2012" ,
-"author":"Srinivas Tamada"
-}, 
-{ 
-"title":"Login with Google Account OAuth", 
-"url":"http://www.9lessons.info/2012/09/login-with-google-account-oauth.html",
-"banner":"https://lh5.googleusercontent.com/-_ubirxCOgmY/UFyxPn4adbI/AAAAAAAAGoM/F7Ha3gvVLDU/s550/googleaccount.png",
-"description":"We covered almost all the Open Authentication (OAuth) login systems for Facebook, Twitter, Google plus and Instagram, but unfortunately I missed most important Google Open Authentication login. Today I want explain how to implement this for your web project, this script is very quick and sure it helps you to increase your web project registrations.",
-"time":"Tuesday, August 6, 2013",
-"author":"Srinivas Tamada" 
-}, 
-{ 
-"title":"Pagination with Jquery, PHP , Ajax and MySQL.", 
-"url":"http://www.9lessons.info/2010/10/pagination-with-jquery-php-ajax-and.html",
-"banner":"http://lh3.ggpht.com/_N9kpbq3FL74/TMRXYx_jWGI/AAAAAAAAEHI/IizC7TZMtRw/pagination_ajax.png",
-"description":"Long days back I had posted an article Pagination with jQuery, MySQL and PHP with out refreshing page. Ravi Tamada modified old script and added extra features like First, Previous, Next and Last buttons. Use it and enrich your web applications. Demo link",
-"time":"MONDAY, OCTOBER 25, 2010",
-"author":"Ravi Tamada"
-}
-]
+[
+    [
+        "ID","USER EMAIL","Nome","Cognome","Cell","Tel","Cod Fiscale","P IVA","istruzioni consegna","Cap Fatt.","Indirizzo Fatt.","Citta Fatt.","complete_billing","Day_Spedizione","Civico","Interno","Nome Via","Citta Cons.","CAP Cons.","Via","complete_shipping","Note","Referral","Amico","Ultima Chiamata","rank","vegan","compleanno","Ultima Consegna","Successivo consegna","Giorni Trascorsi","Num Consegne","Data Registrazione"
+        ],
+    [
+        "8","d@d.com","Harisf","Ahmed","1234567",null,"c","c","test delivery instructionsij?iuioh","00003"," Corso Test Address Numerico Civico","Test Shipping City","1","Giovedi","Numerico Civico",null,"Test Address","Test Shipping City","20125","Corso","1","","","",null,"",null,null,"26\/Jun\/2014",null,"193","8","07\/02\/2011"
+        ],
+    [
+        "8","d@d.com","Harisf","Ahmed","1234567",null,"c","c","test delivery instructionsij?iuioh","00003"," Corso Test Address Numerico Civico","Test Shipping City","1","Giovedi","Numerico Civico",null,"Test Address","Test Shipping City","20125","Corso","1","","","",null,"",null,null,"26\/Jun\/2014",null,"193","8","07\/02\/2011"
+        ],
+    [
+        "54","fuocoelfico@gmail.com","Elisabetta","Mugavero","3358142142","","PTZFRC79A11F205H","07983390969","citofono 1B, orari portineria 8-12%D?onsegna in mattinata%D%A","11111"," Via Filippo Carcano 5a","Milano","1","Venerd\u00ec","5a","","Via Filippo Carcano ","Milano","00003","Via","1","","","",null,null,null,"11\/01\/1979","07\/Nov\/2014",null,"59","9","24\/05\/2011"
+        ],
+    [
+        "65","schui73@gmail.com","Florian ","Schui","3384304376","028692761","schfrn73t10z112u",null,"La portineria e aperta dalle 9h30 alle 12h30. ","20123","Stampa","Milano","1","Mercoled\u00ec","2\/A",null,"Stampa","Milano","20123","Via","1",null,"","",null,null,null,"10\/12\/1973","08\/Oct\/2014",null,"89","15","06\/06\/2011"
+        ],
+    [
+        "67","ricky@iro.net","Riccardo","Canetta","3482505534",null,"cntrcr74c16f205g",null,"scala dx, sesto piano","20122"," via Lamarmora 3","Milano","1","Giovedi","3",null,"Lamarmora","Milano","20122","Via","1",null,"","",null,null,null,"16\/03\/1974","08\/May\/2014",null,"242","67","07\/06\/2011"
+        ],
+    [
+        "68","ar.tonelli@gmail.com","","",null,null,null,null,"..........",null," ",null,null,"Mercoled\u00ec",null,null,null,null,"00001",null,null,null,"","",null,null,null,null,null,null,null,"0","07\/06\/2011"
+        ],
+    [
+        "69","lale100@libero.it","Alessandra","Carra","3492828850",null,"CRRLSN80C57B110L",null,"...........",null," ",null,null,"Mercoled\u00ec",null,null,null,null,"00001",null,null,null,"","",null,null,null,"17\/03\/1980",null,null,null,"0","08\/06\/2011"
+        ],
+    [
+        "70","nazim17@platoh2o.com","Nazim","Moh","07877654333","0988871234","CODEfis234","GB091234","nothing special.. just drop at my home door","15066","60 Beaufort Road","Surrey2","1","Mercoled\u00ec","Surrey","Woking","60 Beaufort Road","Surrey2","15067","Corso","1",null,"","",null,null,null,null,"31\/Dec\/2014",null,"5","4","08\/06\/2011"
+        ]
+    
+    
+   ]
